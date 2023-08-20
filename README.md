@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sendy and I'm a Fullstack Developer and also Backend Developer, from Indonesia 🇮🇩.</h2>
+<h2 align="left">Hi 👋! My name is Sendy and I'm a Fullstack Developer and also Backend Developer, from 🇮🇩.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  />
+<h3 align="center">TECH STACK</h3>
 
 ###
 
@@ -46,6 +46,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
+
+###
+
+<h3 align="left">FIND ME ON</h3>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  />
 
 ###
 
