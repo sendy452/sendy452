@@ -72,10 +72,16 @@
   </a>
 </div>
 
+
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/sendy452/sendy452/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+<p align="center">
+    <a href="https://github.com/sendy452"><span>
+        <img align="center"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sendy452&theme=github_dark" width="100%" />
+      </span></a>
+  </p>
 
 ###
