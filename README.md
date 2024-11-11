@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sendy and I'm a Fullstack Developer and also Backend Developer, from 🇮🇩.</h2>
+<h2 align="left">Hi 👋! My name Sendy and I'm a Fullstack Developer and also Backend Developer, from 🇮🇩.</h2>
 
 ###
 
